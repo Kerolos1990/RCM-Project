@@ -1,0 +1,6 @@
+[MedFinClaim_Pitch_Deck_final.pdf](https://github.com/user-attachments/files/34119317/MedFinClaim_Pitch_Deck_final.pdf)
+[MedFinClaim_Workflows_W1-W5.pdf](https://github.com/user-attachments/files/34119318/MedFinClaim_Workflows_W1-W5.pdf)
+[MedFinClaim_KPIs.pdf](https://github.com/user-attachments/files/34119323/MedFinClaim_KPIs.pdf)
+[Gem_synthetic_claims_100_rows_023906.csv](https://github.com/user-attachments/files/34119322/Gem_synthetic_claims_100_rows_023906.csv)
+[dashboard n8n RCM AI .pdf](https://github.com/user-attachments/files/34119321/dashboard.n8n.RCM.AI.pdf)
+[MedFinClaim_Scenario.pdf](https://github.com/user-attachments/files/34119319/MedFinClaim_Scenario.pdf)
